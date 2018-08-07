@@ -7,8 +7,7 @@ def display_board(board)
 end
 
 # code your input_to_index and move method here!
-def input_to_index()
-  puts "Where would you like to go?"
+def input_to_index(input)
   input = gets.to_i
 end
 

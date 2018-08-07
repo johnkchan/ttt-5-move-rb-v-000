@@ -12,6 +12,6 @@ def input_to_index()
   index = gets.to_i
 end
 
-def move()
+def move(array, index, move ='X')
 
 end
